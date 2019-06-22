@@ -1,5 +1,5 @@
 title = "个人博客"
-baseURL = "https://example.com"
+baseURL = "https://cocky-joliot-0410be.netlify.com"
 languageCode = "zh-cn"
 theme = "ananke"
 #themesDir = "../.."
